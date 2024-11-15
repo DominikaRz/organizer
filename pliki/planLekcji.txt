@@ -1,0 +1,41 @@
+1
+8:00-8:45 Administrowanie
+Aplikacje.inter
+Wychowanie.fizy
+Religia
+J.angielski.zaw
+8:50-9:35 Administrowanie
+Historia.i.spol
+J.polski
+J.angielski.zaw
+Matematyka
+9:40-10:25 Administrowanie
+J.angielski
+Fizyka
+J.angielski
+Programowanie
+10:45-11:30 Tworzenie.grafik
+Aplikacje.inter
+Systemy.i.sieci
+Wychowanie.fizy
+Programowanie
+11:40-12:25 Tworzenie.grafik
+Aplikacje.inter
+Systemy.i.sieci
+Godzina.wychowa
+J.polski
+12:35-13:20 Fizyka
+Aplikacje.inter
+J.niemiecki
+Matematyka
+Matematyka
+13:25-14:10 Wychowanie.fizy
+Aplikacje.inter
+Matematyka
+J.polski
+Religia
+14:15-15:00 -
+-
+-
+Historia.i.spol
+-
